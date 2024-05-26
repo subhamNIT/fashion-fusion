@@ -1,0 +1,14 @@
+.services_icon {
+    color: rgb(37 99 235);
+    opacity: 0.9;
+    font-size: 2rem;
+    line-height: 1;
+}
+
+.services_details {
+    p {
+        font-size: 0.875rem;
+        margin-top: 0.4rem;
+        opacity: 0.8;
+    }
+}
